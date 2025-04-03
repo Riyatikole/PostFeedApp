@@ -33,6 +33,7 @@ About:
 •	The loader is shown for a debounce of 1000ms
 •	You can comment on any resulted post, after the comment it will refresh the page to home page.
 •	You can also use the Home icon to return to initial page.
+•	Uses docker-compose.yaml for easy deployment
 
 Assumption/Things to Note:
 •	The post data and comment data are stored separately and the comments field in post schema is ref to comment schema.
