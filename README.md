@@ -16,7 +16,7 @@ Setup and Installation:
 	Mongodb: http://localhost:27017/
 	After viewing the App, to stop all running containers, run: docker compose down
 	To check running containers, run: docker ps
-	To check logs, run: docker compose logs container_name (frontend | backend | mongodb)
+	To check logs, run: docker compose logs container_ID (use docker ps command to get ID)
 
 Details about the Project:
 Tech Stach
